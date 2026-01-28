@@ -7,8 +7,8 @@
 - **Tools:** Git,Notion
 
 ### 🚀 Projects (진행 중인 프로젝트)
-- **[마이크로비트 지진감지기]**: 간단한 설명 한 줄 (진행 중 ⏳)
-- **[X,Y,Z축으로지진을감지!]**: 어떤 기능을 가진 서비스인지 설명
+- **[마이크로비트 지진감지기]**:  (진행 중 ⏳)
+- **[X,Y,Z축으로지진을감지!]**:
 
 ### 📫 Contact (연락처)
 - **Email:** 저작권문의는 love.jjuni.love@gmail.com
@@ -25,9 +25,9 @@ Tools: Git, Notion
 
 🚀 Projects
 
-[Micro:bit Earthquake Detector]: A brief one-line description (In Progress ⏳)
+[Micro:bit Earthquake Detector]: (In Progress ⏳)
 
-[Detecting Earthquakes on X, Y, Z Axes!]: Description of what this service does
+[Detecting Earthquakes on X, Y, Z Axes!]: 
 
 📫 Contact
 
